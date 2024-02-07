@@ -117,8 +117,3 @@ then
 else
 	echo 'You have entered a non-existing option. Quitting now, goodbye.' #if user input from line 105 is not 1, 2, 3 or 4, system to inform user about non-existing option and stop the script
 fi
-
-
-#Name<code>: IVAN LIM YEE HUI<S11>
-#Classcode: CFC02022023
-#LecturerName: James
